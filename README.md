@@ -7,20 +7,6 @@ The goal of this project is to understand how automatic differentiation,
 backpropagation, and neural networks work internally rather than treating
 them as black boxes.
 
-## Features
-
-- Scalar automatic differentiation
-- Computation graph construction
-- Reverse-mode backpropagation
-- Gradient accumulation
-- Arithmetic operations
-- `exp`
-- `tanh`
-- Simple neural-network abstractions
-- Neuron
-- Layer
-- MLP
-- Computation graph visualization with Graphviz
 
 ## Project Structure
 
